@@ -24,28 +24,28 @@ Rich Mode – Deep Dive
 - etc...
 
 ## Design Principles
-Reduced visual clutter (simple mode)
-Clear visual hierarchy
-Consistent color meanings
-Smooth transitions to avoid sudden or overwhelming changes
-High readability legends and interaction instructions
-Background context retained so users never feel “lost”
+- Reduced visual clutter (simple mode)
+- Clear visual hierarchy
+- Consistent color meanings
+- Smooth transitions to avoid sudden or overwhelming changes
+- High readability legends and interaction instructions
+- Background context retained so users never feel “lost”
 
 ## Running Locally
-** Install requirements
-    pip install -r requirements.txt
-** Run the Dash app
-    python app.py
+- Install requirements
+- >> pip install -r requirements.txt
+- Run the Dash app
+- >> python app.py
 
 ## Deploying on Render (Web-Based)
-** Push this project to GitHub
-** On Render → New Web Service → select your repo
-** Use these settings:
-    Build Command
-    pip install -r requirements.txt
-    Start Command
-    gunicorn app:server
-** Render will auto-deploy your Dash web app and provide a sharable URL.
+- Push this project to GitHub
+- On Render → New Web Service → select your repo
+- Use these settings:
+- >> Build Command
+- >> pip install -r requirements.txt
+- >> Start Command
+- >> gunicorn app:server
+- Render will auto-deploy your Dash web app and provide a sharable URL.
 
 ## Data Processing Summary
 The raw MovieLens dataset was transformed into a network-friendly format:
