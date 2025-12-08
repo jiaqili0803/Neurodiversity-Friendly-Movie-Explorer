@@ -5,7 +5,7 @@ It presents an interactive movie similarity network based on the MovieLens datas
 This tool is deployed on Render as a web application where users can search, explore, zoom, and interpret relationships among movies based on genres, user-generated tags, and audience engagement levels.
 
 ## Live Demo (Render Deployment)
-🔗 
+🔗 [TBD - not ready yet]
 (If the free Render service is “waking up,” it may take several seconds to load)
 
 ## Features
