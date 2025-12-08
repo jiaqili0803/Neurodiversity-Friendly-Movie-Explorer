@@ -82,6 +82,7 @@ GroupLens and the University of Minnesota are not liable for damages resulting f
 
 #### Required Citation
 If you use this project or dataset in an academic setting, cite the official MovieLens dataset publication:
+
 _F. Maxwell Harper and Joseph A. Konstan. 2015.
 The MovieLens Datasets: History and Context.
 ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4 (2015), 19:1–19:19.
