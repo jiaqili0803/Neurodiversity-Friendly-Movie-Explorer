@@ -14,13 +14,14 @@ This tool is deployed on Render as a web application where users can search, exp
 Simple Mode – Calm View
 Rich Mode – Deep Dive
 2. Interactive Components
-Hover (Details-on-Demand)
-Click (Recenter + Focus Lock)
-Helps avoid accidental disorientation (ADHD-friendly)
-Search (Brushing & Linking)
-Highlights the searched movie with an orange halo
-Reset View
-Linked Histogram
+- Hover (Details-on-Demand)
+- Click (Recenter + Focus Lock)
+- Helps avoid accidental disorientation (ADHD-friendly)
+- Search (Brushing & Linking)
+- Highlights the searched movie with an orange halo
+- Reset View
+- Linked Histogram
+- etc...
 
 ## Design Principles
 Reduced visual clutter (simple mode)
@@ -30,13 +31,13 @@ Smooth transitions to avoid sudden or overwhelming changes
 High readability legends and interaction instructions
 Background context retained so users never feel “lost”
 
-* Running Locally
+## Running Locally
 ** Install requirements
     pip install -r requirements.txt
 ** Run the Dash app
     python app.py
 
-* Deploying on Render (Web-Based)
+## Deploying on Render (Web-Based)
 ** Push this project to GitHub
 ** On Render → New Web Service → select your repo
 ** Use these settings:
