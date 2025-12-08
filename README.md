@@ -6,8 +6,8 @@ This tool is deployed on Render as a web application where users can search, exp
 
 ## Live Demo (Render Deployment)
 🔗 [https://neurodiversity-friendly-movie-explorer.onrender.com]
-(Render can lag by a few seconds during some interactions, so if you’d like a smoother experience, it’s better to download the files and run everything locally)
-(If the free Render service is “waking up,” it may take several seconds to load)
+- (Render can lag by a few seconds during some interactions, so if you’d like a smoother experience, it’s better to download the files and run everything locally)
+- (If the free Render service is “waking up,” it may take several seconds to load)
 
 ## Features
 1. Two Visualization Modes
